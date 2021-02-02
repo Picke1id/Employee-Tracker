@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Picke1id/Employee-Tracker.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "mysql",
+    "inquirer"
+  ],
+  "author": "Imari Pickens",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Picke1id/Employee-Tracker/issues"
   },
@@ -21,6 +25,7 @@
     "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
   }
 }
