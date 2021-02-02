@@ -1,5 +1,5 @@
 # Employee Tracker
-This site was developed with the intention of creating an command-line application that allows a business owner to organize, view, and manage the departments, roles, and employees within their organization. 
+This program was developed with the intention of creating a command-line application that allows a business owner to organize, view, and manage the departments, roles, and employees within their organization. 
 
 ## Motivation
 The motivation behind this project was to create a CLI that utilitizes Node.js, Inquirer, and MySql to allow users to add, view, and update information in a database using the following schema:
@@ -38,4 +38,4 @@ After the repository has been cloned, use terminal to change directories into "E
 This project is licensed under the terms of the MIT license.
 
 ## Link
-* Video demonstration link: ()
+* Video demonstration link: (https://drive.google.com/file/d/1j4o1_9W4YLDuhAMMdmcju5vZXGSPRfy0/view)
